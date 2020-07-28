@@ -1,4 +1,4 @@
-![](images/header.jpg)
+![](https://raw.githubusercontent.com/memojja/memojja/master/images/header.jpg)
 
 ### Welcome to my hobbyhub 👋
 > *My passion is to produce quality software and make people's lives easier.*
