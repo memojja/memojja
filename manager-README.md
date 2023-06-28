@@ -1,4 +1,4 @@
-# Hello, world! I'm Mehmt ARI.
+# Hello, world! I'm Mehmet ARI.
 
 This document is my manager README, but it’s written for you! 
 I’ve packed it with information on how I do my best work, what I value, who I am, what I’m working on, and things you can ask me about. 
@@ -171,7 +171,7 @@ Don’t hesitate to reach out from slack, WhatsApp, email, or call me directly a
 
 ## Inspirations
 
-* [https://github.com/hyurtseven81/hyurtseven81.github.io](Huseyın Yurtseven.MD)
+* [https://github.com/hyurtseven81/hyurtseven81.github.io](Huseyin-Yurtseven.MD)
 * [https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html](https://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html)
 * [https://about.gitlab.com/handbook/leadership](https://about.gitlab.com/handbook/leadership) 
 
